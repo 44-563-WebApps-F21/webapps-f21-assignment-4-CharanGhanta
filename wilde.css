@@ -1,0 +1,63 @@
+.speech {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+    color: black;
+}
+
+.stageDirections{
+    font-family:cursive;
+    font-size: 18px;
+    background-color:aquamarine;
+    color:black;
+}
+
+.name{
+    font-family:fantasy;
+    font-size: 27px;
+    color:black;
+}
+
+.hover:hover{
+    background-color:lavenderblush;
+    color:navy;
+}
+
+.gerald{
+    color:tomato;
+}
+
+.ladyHunstanton{
+    color:mediumseagreen;
+}
+
+.allonby{
+    color:lightsalmon;
+}
+
+.alice{
+    color:lime;
+}
+
+.Stylefortable{
+    border-style:solid;
+    border-color: black;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+tr:nth-child(even) {background-color: #d1d1d1;}
+
+.rowwithCol{
+    border-style:ridge;
+    border-color: black;
+    padding: 25px;
+}
+
+.whenHoveronName:hover{
+    text-shadow: 4px 4px olivedrab;
+    border-style:double;
+    border-color: black;
+}
